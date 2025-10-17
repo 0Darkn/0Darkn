@@ -10,18 +10,23 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
+| Linguagem  | Logo                                                                                                                       | Nome       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Assembler  | 🛠️                                                                                                                        | Assembly   |
+| QBasic     | 💾                                                                                                                         | QBasic     |
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="12"/>                  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="12"/>   
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="12"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="12"/>             
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="12"/>           
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="12"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="12"/>
+| XML        | 🧾                                                                                                                         | XML        |
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="12"/>          
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="12"/>        
+         
 
 
 
 
-
- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | C              |
- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | C++            |
- ![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | JavaScript     |
- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | Java           |
- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | HTML           |
- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | PHP            |
-
- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | MySQL          |
- ![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg) | SQLite         |
- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | Python         |
+ 
