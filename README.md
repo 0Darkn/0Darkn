@@ -19,9 +19,9 @@
 
 ---
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="120">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="120">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="20">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="20">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="20">
 </p>
           
     
