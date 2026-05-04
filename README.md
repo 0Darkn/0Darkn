@@ -23,7 +23,8 @@
 </p>
           
     
-
+---
+# queres ser o melhor programador? faz ! não decurar, fazer, fazer, fazer!
 
                                                                                                              
          
