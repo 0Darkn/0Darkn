@@ -24,7 +24,7 @@
           
     
 ---
-# queres ser o melhor programador? faz ! não decurar, fazer, fazer, fazer!
+
 - ser ser curioso!
 - - ter "fome de conhecimento"!!
                                                                                                              
