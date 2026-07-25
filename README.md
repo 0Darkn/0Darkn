@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 i am José Raposo, 
 
 - 🔭 I’m currently working on python and C++
 - 🌱 I’m currently learning python and AI
